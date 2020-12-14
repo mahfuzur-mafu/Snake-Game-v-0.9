@@ -1,12 +1,11 @@
 # Project Name ; Snake Game v 0.9
 # Features 
 
-![image](https://user-images.githubusercontent.com/63856744/101162465-9505ab80-365c-11eb-839c-023e420c5766.png)
+![image](https://user-images.githubusercontent.com/63856744/102123933-d161b480-3e71-11eb-939d-54e1076c1079.png)
 
 
-![image](https://user-images.githubusercontent.com/63856744/101162110-16a90980-365c-11eb-8450-8f9a316fb239.png)
-
-![image](https://user-images.githubusercontent.com/63856744/101162333-6982c100-365c-11eb-8b48-fb75146b0877.png)
+![image](https://user-images.githubusercontent.com/63856744/102124094-066e0700-3e72-11eb-9e95-9f695a0aa134.png)
+![image](https://user-images.githubusercontent.com/63856744/102124147-1dacf480-3e72-11eb-95d5-48b810f5132c.png)
 
 
  
