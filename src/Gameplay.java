@@ -172,9 +172,11 @@ public class Gameplay extends JPanel implements  KeyListener, ActionListener{
 				down=false;
 				
 				
-				g.setColor(Color.black);
-				g.setFont(new Font("arial",Font.BOLD,50));
-				g.drawString("Game Over ", 300, 300);
+				g.setColor(Color.red);
+				g.setFont(new Font("arial",Font.BOLD,60));
+				g.drawString("Game Over", 300, 350);
+				
+				
 				
 				
 				
@@ -322,7 +324,7 @@ public class Gameplay extends JPanel implements  KeyListener, ActionListener{
 	public void keyPressed(KeyEvent e) {
 		// TODO Auto-generated method stub
 		
-		if(e.getKeyCode()==KeyEvent.VK_SPACE)
+		if(e.getKeyCode()==KeyEvent.VK_SPACE || e.getKeyCode()==KeyEvent.VK_ENTER)
 		{
 			moves=0;
 			score=0;

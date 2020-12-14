@@ -17,7 +17,7 @@ public class Main {
 		// obj.setBounds(10,10,905,700);
 		// obj.setBackground(icon);
 		ImageIcon background = new ImageIcon(
-				"C:\\\\Users\\\\MAHFUZ\\\\eclipse-workspace\\\\SnakeGame\\\\snakeback.png");
+				"C:\\Users\\MAHFUZ\\eclipse-workspace\\SnakeGame\\src\\icon\\snakeback.png");
 		Image img = background.getImage();
 		Image temp = img.getScaledInstance(905, 700, Image.SCALE_SMOOTH);
 		background = new ImageIcon(temp);
