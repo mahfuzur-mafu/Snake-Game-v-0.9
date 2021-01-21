@@ -77,8 +77,7 @@ public class Gameplay extends JPanel implements  KeyListener, ActionListener{
 			snakeylength[0]=100;
 			snakeylength[1]=100;
 			snakeylength[2]=100;
-			
-		
+				
 	}	
 	
 		g.setColor(Color.white);		
