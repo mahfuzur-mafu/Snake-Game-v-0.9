@@ -98,7 +98,6 @@ public class Gameplay extends JPanel implements  KeyListener, ActionListener{
      g.setColor(Color.decode("#ffffff"));
 		g.fillRect(25, 75, 850, 575);
 		
-	
 		
 		g.setColor(Color.white);
 		g.setFont(new Font("Times new roman",Font.BOLD,24));
